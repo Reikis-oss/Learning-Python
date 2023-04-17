@@ -9,7 +9,7 @@
 Input: 
     5 -> 1 0 1 1 0
 Output: 
-    120 
+    2 
 """
 import random
 
